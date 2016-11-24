@@ -1,0 +1,6 @@
+D:\Telerik\Data-Structures-And-Algorithms\Workshop\PolishNotation\bin\Debug\PolishNotation.exe.config
+D:\Telerik\Data-Structures-And-Algorithms\Workshop\PolishNotation\bin\Debug\PolishNotation.exe
+D:\Telerik\Data-Structures-And-Algorithms\Workshop\PolishNotation\bin\Debug\PolishNotation.pdb
+D:\Telerik\Data-Structures-And-Algorithms\Workshop\PolishNotation\obj\Debug\PolishNotation.exe
+D:\Telerik\Data-Structures-And-Algorithms\Workshop\PolishNotation\obj\Debug\PolishNotation.pdb
+D:\Telerik\Data-Structures-And-Algorithms\Workshop\PolishNotation\obj\Debug\PolishNotation.csprojResolveAssemblyReference.cache

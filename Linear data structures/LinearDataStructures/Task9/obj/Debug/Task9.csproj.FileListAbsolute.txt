@@ -1,0 +1,6 @@
+D:\Telerik\Data-Structures-And-Algorithms\Linear data structures\LinearDataStructures\Task9\bin\Debug\Task9.exe.config
+D:\Telerik\Data-Structures-And-Algorithms\Linear data structures\LinearDataStructures\Task9\bin\Debug\Task9.exe
+D:\Telerik\Data-Structures-And-Algorithms\Linear data structures\LinearDataStructures\Task9\bin\Debug\Task9.pdb
+D:\Telerik\Data-Structures-And-Algorithms\Linear data structures\LinearDataStructures\Task9\obj\Debug\Task9.csprojResolveAssemblyReference.cache
+D:\Telerik\Data-Structures-And-Algorithms\Linear data structures\LinearDataStructures\Task9\obj\Debug\Task9.exe
+D:\Telerik\Data-Structures-And-Algorithms\Linear data structures\LinearDataStructures\Task9\obj\Debug\Task9.pdb

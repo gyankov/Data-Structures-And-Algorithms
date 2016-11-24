@@ -1,0 +1,5 @@
+D:\Telerik\Data-Structures-And-Algorithms\Linear data structures\LinearDataStructures\Task6\bin\Debug\Task6.exe.config
+D:\Telerik\Data-Structures-And-Algorithms\Linear data structures\LinearDataStructures\Task6\bin\Debug\Task6.exe
+D:\Telerik\Data-Structures-And-Algorithms\Linear data structures\LinearDataStructures\Task6\bin\Debug\Task6.pdb
+D:\Telerik\Data-Structures-And-Algorithms\Linear data structures\LinearDataStructures\Task6\obj\Debug\Task6.exe
+D:\Telerik\Data-Structures-And-Algorithms\Linear data structures\LinearDataStructures\Task6\obj\Debug\Task6.pdb
