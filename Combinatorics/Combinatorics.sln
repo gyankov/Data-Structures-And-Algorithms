@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryPasswords", "BinaryPasswords\BinaryPasswords.csproj", "{2F8CAF85-6759-4E02-B0FB-97D9EDCC0145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorfulBunnies", "ColorfulBunnies\ColorfulBunnies.csproj", "{C2A68DAB-A519-466F-8427-5677ACF76F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devisors", "Devisors\Devisors.csproj", "{103D64B1-59C8-41CF-AB63-68198BF7D04E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F8CAF85-6759-4E02-B0FB-97D9EDCC0145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8CAF85-6759-4E02-B0FB-97D9EDCC0145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8CAF85-6759-4E02-B0FB-97D9EDCC0145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8CAF85-6759-4E02-B0FB-97D9EDCC0145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A68DAB-A519-466F-8427-5677ACF76F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A68DAB-A519-466F-8427-5677ACF76F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A68DAB-A519-466F-8427-5677ACF76F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A68DAB-A519-466F-8427-5677ACF76F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103D64B1-59C8-41CF-AB63-68198BF7D04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103D64B1-59C8-41CF-AB63-68198BF7D04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103D64B1-59C8-41CF-AB63-68198BF7D04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103D64B1-59C8-41CF-AB63-68198BF7D04E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
